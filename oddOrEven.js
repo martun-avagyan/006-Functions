@@ -16,3 +16,5 @@ const oddOrEven = function (arr) {
 };
 
 console.log(oddOrEven([45, 12, 3, 6, 17, 0]));
+
+// Random comment
